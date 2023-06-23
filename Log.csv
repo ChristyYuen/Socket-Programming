@@ -1,0 +1,2 @@
+Successful or Unsuccessful, Requested URL, Hostname, source IP, destination IP, source port, destination port, Server Response line(including code and phrase)
+Successful, http://neverssl.com/, neverssl.com, 18.65.3.101, 127.0.1.1, 53230, 80, HTTP/1.1 200 OK
